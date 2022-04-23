@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RockPaperScissors.MainPage">
+
+    <StackLayout Orientation="Vertical" Margin="0,75,0,0">
+
+    <Label Text="{Binding final}" HorizontalOptions="Center" FontSize="50" FontAttributes="Bold"></Label>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Padding="35" Margin="0,50,0,0" x:Name="won">
+
+        <Label Text="{Binding finalComputer}" FontSize="100" Padding="0,0,10,0" x:Name="computer"></Label>
+        <Label Text="{Binding finalPlayer}" FontSize="100" Padding="10,0,0,0" x:Name="player"></Label>
+
+
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="0,50,0,0">
+
+            <Button Text="👊" FontSize="60" x:Name="rock" Clicked="rock_Clicked"></Button>
+            <Button Text="✋" FontSize="60" x:Name="paper" Clicked="paper_Clicked"></Button>
+            <Button Text="✌️" FontSize="60" x:Name="scissors" Clicked="scissors_Clicked"></Button>
+
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="0,50,0,0">
+            <Label Text="Computer: " FontSize="20"></Label>
+              <Label x:Name="computerScore" Text="{Binding finalCompScore}" FontSize="20" Margin="0,0,25,0"></Label>
+            <Label x:Name="playerScore" Text="Player: " FontSize="20" Margin="25,0,0,0"></Label>
+             <Label Text="{Binding finalPlayScore}" FontSize="20"></Label>
+
+        </StackLayout>
+
+        <Button x:Name="clear" Text="reset scores" FontSize="Body" BackgroundColor="Transparent" Margin="0,15,0,0" Clicked="clear_Clicked"></Button>
+
+    </StackLayout>
+       
+
+</ContentPage>
