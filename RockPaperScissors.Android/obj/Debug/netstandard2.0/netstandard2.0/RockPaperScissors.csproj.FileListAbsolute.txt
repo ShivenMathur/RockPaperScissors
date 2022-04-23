@@ -1,0 +1,13 @@
+/Users/abhinavmathur/Desktop/shiven/TEMPORARY/RockPaperScissors/RockPaperScissors/bin/Debug/netstandard2.0/netstandard2.0/RockPaperScissors.deps.json
+/Users/abhinavmathur/Desktop/shiven/TEMPORARY/RockPaperScissors/RockPaperScissors/bin/Debug/netstandard2.0/netstandard2.0/RockPaperScissors.dll
+/Users/abhinavmathur/Desktop/shiven/TEMPORARY/RockPaperScissors/RockPaperScissors/bin/Debug/netstandard2.0/netstandard2.0/ref/RockPaperScissors.dll
+/Users/abhinavmathur/Desktop/shiven/TEMPORARY/RockPaperScissors/RockPaperScissors/obj/Debug/netstandard2.0/netstandard2.0/RockPaperScissors.csproj.AssemblyReference.cache
+/Users/abhinavmathur/Desktop/shiven/TEMPORARY/RockPaperScissors/RockPaperScissors/obj/Debug/netstandard2.0/netstandard2.0/RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhinavmathur/Desktop/shiven/TEMPORARY/RockPaperScissors/RockPaperScissors/obj/Debug/netstandard2.0/netstandard2.0/App.xaml.g.cs
+/Users/abhinavmathur/Desktop/shiven/TEMPORARY/RockPaperScissors/RockPaperScissors/obj/Debug/netstandard2.0/netstandard2.0/MainPage.xaml.g.cs
+/Users/abhinavmathur/Desktop/shiven/TEMPORARY/RockPaperScissors/RockPaperScissors/obj/Debug/netstandard2.0/netstandard2.0/RockPaperScissors.AssemblyInfoInputs.cache
+/Users/abhinavmathur/Desktop/shiven/TEMPORARY/RockPaperScissors/RockPaperScissors/obj/Debug/netstandard2.0/netstandard2.0/RockPaperScissors.AssemblyInfo.cs
+/Users/abhinavmathur/Desktop/shiven/TEMPORARY/RockPaperScissors/RockPaperScissors/obj/Debug/netstandard2.0/netstandard2.0/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/abhinavmathur/Desktop/shiven/TEMPORARY/RockPaperScissors/RockPaperScissors/obj/Debug/netstandard2.0/netstandard2.0/XamlC.stamp
+/Users/abhinavmathur/Desktop/shiven/TEMPORARY/RockPaperScissors/RockPaperScissors/obj/Debug/netstandard2.0/netstandard2.0/RockPaperScissors.dll
+/Users/abhinavmathur/Desktop/shiven/TEMPORARY/RockPaperScissors/RockPaperScissors/obj/Debug/netstandard2.0/netstandard2.0/ref/RockPaperScissors.dll
