@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+    <Description>MADE BY: SHIVEN MATHUR
+
+http://www.iamshiven.tk/</Description>
+    <PackageId>shivenmathur.rps</PackageId>
+    <PackageVersion>1.0</PackageVersion>
+    <Authors>Shiven Mathur</Authors>
+    <Copyright>COPYRIGHT © 2022 SHIVEN MATHUR. ALL RIGHTS RESERVED.</Copyright>
+    <NeutralLanguage>en-GB</NeutralLanguage>
+    <Owners>SHIVEN MATHUR</Owners>
+    <PackageReleaseNotes>GOOD APPLICATION</PackageReleaseNotes>
+    <Summary>ROCKPAPERSCISSORS</Summary>
+    <Title>RPS-SM</Title>
+    <Configurations>Release;Debug</Configurations>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType></DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <IntermediateOutputPath>obj\Debug\netstandard2.0\netstandard2.0</IntermediateOutputPath>
+    <DebugSymbols>false</DebugSymbols>
+    <DebugType></DebugType>
+    <OutputPath>bin\Debug\netstandard2.0\netstandard2.0</OutputPath>
+    <DefineConstants></DefineConstants>
+    <NoWarn></NoWarn>
+    <NoStdLib>false</NoStdLib>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />
+  </ItemGroup>
+</Project>
